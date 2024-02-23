@@ -114,7 +114,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
 ```
-#import defaultdict
+import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
     path.append(start)
