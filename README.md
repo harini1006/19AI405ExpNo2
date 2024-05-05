@@ -1,4 +1,5 @@
-<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
+# ExpNo 2 : Implement Depth First Search Traversal of a Graph 
+## DATE: 21.02.2024
 <h3>Name: HARINI V</h3>
 <h3>Register Number:212222230044</h3>
 <H3>Aim:</H3>
